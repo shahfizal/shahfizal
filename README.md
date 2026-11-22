@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Agentic marketing for Malaysian startups.</strong><br/>
-  <strong>S.A.M Studio · Malaysia</strong><br/>
+  <strong>Muse Visuals Studio · Malaysia</strong><br/>
   Creator of <em>The Agentic Marketer</em> and the S.A.M Agent Skills pack.<br/>
   I teach teams to run AI agents with evidence, not hype.
 </p>
