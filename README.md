@@ -57,7 +57,7 @@ I help Malaysian startups turn AI from a demo into an operating system: a workin
 
 - [S.A.M Agent Skills — free starter](https://github.com/shahfizal/sam-agent-skills-starter) — four skills for writing, strategy, social and QA.
 - [S.A.M Agent Skills — cohort](https://github.com/shahfizal/sam-agent-skills) — the full 17-skill pack (private; enrolled students).
-- [The Agentic Marketer](https://github.com/shahfizal?tab=repositories) — the book and teaching materials.
+- [The Agentic Marketer](https://www.linkedin.com/in/shahfizalzainuddin/) — the book and teaching materials; cohort access via LinkedIn.
 
 ## Background
 
